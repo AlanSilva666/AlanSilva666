@@ -60,7 +60,8 @@ Estou em busca de oportunidade no mercado de trabalho e crescimento profissional
 
 ### Linguagens Mais Usadas:
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=6&card_width=400&hide=html,css)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=6&card_width=400&hide=html,css&hide_title=true&custom_title=Linguagens%20Mais%20Usadas%20(%25))
+
 
 ### Histórico de Commits:
 
