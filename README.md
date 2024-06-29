@@ -58,6 +58,14 @@ Estou em busca de oportunidade no mercado de trabalho e crescimento profissional
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-4479A1?style=for-the-badge&logo=mvc&logoColor=white)
 
+### Linguagens Mais Usadas:
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=6&card_width=400&hide=html,css)
+
+### Histórico de Commits:
+
+![Histórico de Commits](https://github-readme-stats.vercel.app/api?username=AlanSilva666&show_icons=true&title_color=ffffff&icon_color=4AB197&text_color=c9cacc&bg_color=1A2B34)
+
 ## Como me encontrar:
 
 <p align="left">
@@ -65,13 +73,3 @@ Estou em busca de oportunidade no mercado de trabalho e crescimento profissional
   <a href="mailto:alan_alfenas2010@live.com"><img src="https://camo.githubusercontent.com/f7127b0e4bc56188991270f875d7602019213ce6dd1ccaf783760844b1e44a41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://www.instagram.com/alan_martins0/" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
-
-## Estatísticas do GitHub:
-
-### Linguagens Mais Usadas:
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=6&card_width=400)
-
-### Histórico de Commits:
-
-![Histórico de Commits](https://github-readme-stats.vercel.app/api?username=AlanSilva666&show_icons=true&title_color=ffffff&icon_color=4AB197&text_color=c9cacc&bg_color=1A2B34)
