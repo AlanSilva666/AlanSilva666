@@ -61,9 +61,7 @@ Estou em busca de oportunidade no mercado de trabalho e crescimento profissional
     </a>
 </div>
 
-### Histórico de Commits:
-
-![Histórico de Commits](https://github-readme-stats.vercel.app/api?username=AlanSilva666&show_icons=true&title_color=ffffff&icon_color=4AB197&text_color=c9cacc&bg_color=1A2B34)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanSilva666&custom_title=Histórico%20de%20Commits&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=00FF00&hide_border=true)](https://github.com/AlanSilva666/github-readme-activity-graph)
 
 ## Como me encontrar:
 
