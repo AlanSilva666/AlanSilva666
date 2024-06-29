@@ -68,10 +68,10 @@ Estou em busca de oportunidade no mercado de trabalho e crescimento profissional
 
 ### Gráfico de Linguagens Mais Usadas:
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=6&card_width=400&animation=fadeIn)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=6&card_width=400)
 
 ### Gráfico de Atividade do GitHub:
 
-![Atividade do GitHub](https://activity-graph.herokuapp.com/graph?username=AlanSilva666&theme=react-dark&hide_border=true)
+![Atividade do GitHub](https://github-readme-stats.vercel.app/api?username=AlanSilva666&theme=react&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 Sinta-se à vontade para explorar meus repositórios, contribuir com sugestões ou entrar em contato para possíveis colaborações.
