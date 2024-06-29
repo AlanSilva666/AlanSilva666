@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/AlanSilva666/" rel="nofollow"><img src="https://camo.githubusercontent.com/7370e2e8a59520d66b675c22cffb2cba124656c5fe0458851b54bb6f306db013/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733d4f6c2543332541312c2b62656d2d76696e646f2b616f2b6d65752b70657266696c2b646f2b476974487562213b45752b736f752b526f647269676f2b56616c696d2c2b756d2b646573656e766f6c7665646f722b46756c6c2b537461636b2e2663656e7465723d74727565266475726174696f6e3d333030302670617573653d32303026636f6c6f723d3145393046462677696474683d31303030266865696768743d35302673697a653d333026666f6e743d4b616e6974" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1,+Bem-Vindo+ao+Meu+Perfil+do+GitHub!;Eu+sou+Alan+Silva,+um+desenvolvedor+Full+Stack.&amp;center=true&amp;duration=3000&amp;pause=200&amp;color=03BB85&amp;width=1000&amp;height=50&amp;size=30&amp;font=Kanit" style="max-width: 100%;"></a></p>
 
+
 ## Sobre Mim:
 
 Sou Alan Silva, cursando Graduação em Ciências da Computação, com previsão de graduação em Julho/2024. Tenho experiência acadêmica em Desenvolvimento de Software e atuação na área de Suporte Técnico em TI, além de experiência comprovada em Desenvolvimento Full Stack. Estou sempre estudando e em busca de evolução. Há anos venho desenvolvendo projetos com as melhores tecnologias.
