@@ -4,7 +4,7 @@
 
 ## Sobre Mim:
 
-Sou Alan Silva, cursando Graduação em Ciências da Computação, com previsão de graduação em Julho/2024. Tenho experiência acadêmica em Desenvolvimento de Software e atuação na área de Suporte Técnico em TI, além de experiência comprovada em Desenvolvimento Full Stack. Estou sempre estudando e em busca de evolução. Há anos venho desenvolvendo projetos com as melhores tecnologias.
+Sou Alan Silva, estou cursando Graduação em Ciências da Computação, com previsão de graduação em Julho/2024. Tenho experiência acadêmica em Desenvolvimento de Software e atuação na área de Suporte Técnico em TI, além de experiência comprovada em Desenvolvimento Full Stack. Estou sempre estudando e em busca de evolução. Há anos venho desenvolvendo projetos com as melhores tecnologias.
 
 ## Habilidades, Conhecimentos e Experiência:
 
