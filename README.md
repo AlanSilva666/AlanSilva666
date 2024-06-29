@@ -1,4 +1,3 @@
-# Olá! 👋
 
 <a href="https://www.linkedin.com/in/alan-martins-b83639316/" rel="nofollow">
     <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1,+Bem-Vindo+ao+Meu+Perfil+do+GitHub!;Eu+sou+Alan+Silva,+um+desenvolvedor+Full+Stack.&amp;center=true&amp;duration=3000&amp;pause=200&amp;color=03BB85&amp;width=1000&amp;height=50&amp;size=30&amp;font=Kanit" alt="Typing SVG" style="max-width: 100%;">
