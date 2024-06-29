@@ -66,15 +66,12 @@ Estou em busca de oportunidade no mercado de trabalho e crescimento profissional
   <a href="https://www.instagram.com/alan_martins0/" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-
 ## Estatísticas do GitHub:
 
-### Gráfico de Linguagens Mais Usadas:
+### Linguagens Mais Usadas:
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=6&card_width=400)
 
-### Gráfico de Atividade do GitHub:
+### Histórico de Commits:
 
-![Atividade do GitHub](https://github-readme-stats.vercel.app/api?username=AlanSilva666&theme=react&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-Sinta-se à vontade para explorar meus repositórios, contribuir com sugestões ou entrar em contato para possíveis colaborações.
+![Histórico de Commits](https://github-readme-stats.vercel.app/api?username=AlanSilva666&show_icons=true&title_color=ffffff&icon_color=4AB197&text_color=c9cacc&bg_color=1A2B34)
