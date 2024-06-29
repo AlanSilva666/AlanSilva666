@@ -60,14 +60,17 @@ Estou em busca de oportunidade no mercado de trabalho e crescimento profissional
 
 ### Linguagens Mais Usadas:
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=6&card_width=400&hide=html,css&hide_title=true&custom_title=Linguagens%20Mais%20Usadas%20(%25))
+<div align="center">
+    <a href="https://github.com/AlanSilva666">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=6&card_width=400&hide=html,css&hide_title=true&custom_title=Linguagens%20Mais%20Usadas%20(%25)" alt="Top Langs" style="max-width: 100%;">
+    </a>
+</div>
+
 
 
 ### Histórico de Commits:
 
-<div align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/69a83f14b0263ce349c31c93e658796d1da7da623eb7dd7cadb9c060ca3bfd9e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726f647269676f76616c696d303726746578745f636f6c6f723d464646464646267469746c655f636f6c6f723d46464646464626686964655f626f726465723d74727565266c61796f75743d7069652662675f636f6c6f723d306431313137266c6f63616c653d70742d6272"><img src="https://camo.githubusercontent.com/69a83f14b0263ce349c31c93e658796d1da7da623eb7dd7cadb9c060ca3bfd9e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726f647269676f76616c696d303726746578745f636f6c6f723d464646464646267469746c655f636f6c6f723d46464646464626686964655f626f726465723d74727565266c61796f75743d7069652662675f636f6c6f723d306431313137266c6f63616c653d70742d6272" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigovalim07&amp;text_color=FFFFFF&amp;title_color=FFFFFF&amp;hide_border=true&amp;layout=pie&amp;bg_color=0d1117&amp;locale=pt-br" style="max-width: 100%;"></a>
-</div>
+![Histórico de Commits](https://github-readme-stats.vercel.app/api?username=AlanSilva666&show_icons=true&title_color=ffffff&icon_color=4AB197&text_color=c9cacc&bg_color=1A2B34)
 
 ## Como me encontrar:
 
