@@ -62,11 +62,9 @@ Estou em busca de oportunidade no mercado de trabalho e crescimento profissional
 
 <div align="center">
     <a href="https://github.com/AlanSilva666">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=6&card_width=400&hide=html,css&hide_title=true&custom_title=Linguagens%20Mais%20Usadas%20(%25)" alt="Top Langs" style="max-width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&amp;text_color=ffffff&amp;title_color=ffffff&amp;hide_border=true&amp;bg_color=1A2B34&amp;langs_count=6&amp;card_width=400&amp;hide=html,css&amp;hide_title=true&amp;custom_title=Linguagens%20Mais%20Usadas%20(%25)" alt="Top Langs" style="max-width: 100%;">
     </a>
 </div>
-
-
 
 ### Histórico de Commits:
 
