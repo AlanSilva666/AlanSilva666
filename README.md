@@ -1,4 +1,3 @@
-
 <a href="https://www.linkedin.com/in/alan-martins-b83639316/" rel="nofollow">
     <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1,+Bem-Vindo+ao+Meu+Perfil+do+GitHub!;Eu+sou+Alan+Silva,+um+desenvolvedor+Full+Stack.&amp;center=true&amp;duration=3000&amp;pause=200&amp;color=03BB85&amp;width=1000&amp;height=50&amp;size=30&amp;font=Kanit" alt="Typing SVG" style="max-width: 100%;">
 </a>
@@ -56,14 +55,11 @@ Estou em busca de oportunidade no mercado de trabalho e crescimento profissional
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-4479A1?style=for-the-badge&logo=mvc&logoColor=white)
 
-
 <div align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/AlanSilva666">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&amp;text_color=FFFFFF&amp;title_color=FFFFFF&amp;hide_border=true&amp;layout=pie&amp;bg_color=0d1117&amp;custom_title=Linguagens%20mais%20usadas" alt="Top Langs" style="max-width: 100%;">
     </a>
 </div>
-
-
 
 ### Histórico de Commits:
 
