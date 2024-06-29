@@ -1,6 +1,11 @@
 # Olá! 👋
 
-![Boas-vindas](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+<div style="text-align: center;">
+  <h2 style="font-family: 'Courier New', Courier, monospace; font-size: 32px; color: #4AB197; margin-bottom: 0;">Bem-vindo, Alan Silva!</h2>
+  <p style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #777;">Desenvolvedor Full Stack</p>
+</div>
+
+## Sobre Mim:
 
 Sou Alan Silva, cursando Graduação em Ciências da Computação, com previsão de graduação em Julho/2024. Tenho experiência acadêmica em Desenvolvimento de Software e atuação na área de Suporte Técnico em TI, além de experiência comprovada em Desenvolvimento Full Stack. Estou sempre estudando e em busca de evolução. Há anos venho desenvolvendo projetos com as melhores tecnologias.
 
@@ -55,13 +60,18 @@ Estou em busca de oportunidade no mercado de trabalho e crescimento profissional
 
 ## Como me encontrar:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-martins-b83639316/)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alan_alfenas2010@live.com)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alan_martins0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-martins-b83639316/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alan_alfenas2010@live.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alan_martins0/)
 
 ## Estatísticas do GitHub:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact)
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlanSilva666&theme=react-dark)
+### Gráfico de Linguagens Mais Usadas:
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSilva666&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=6&card_width=400&animation=fadeIn)
+
+### Gráfico de Atividade do GitHub:
+
+![Atividade do GitHub](https://activity-graph.herokuapp.com/graph?username=AlanSilva666&theme=react-dark&hide_border=true)
 
 Sinta-se à vontade para explorar meus repositórios, contribuir com sugestões ou entrar em contato para possíveis colaborações.
