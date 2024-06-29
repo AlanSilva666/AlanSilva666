@@ -62,7 +62,7 @@ Estou em busca de oportunidade no mercado de trabalho e crescimento profissional
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alan-martins-b83639316/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:alan_alfenas2010@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:alan_alfenas2010@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Microsoft Outlook"></a>
   <a href="https://www.instagram.com/alan_martins0/" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
