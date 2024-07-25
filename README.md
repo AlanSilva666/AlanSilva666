@@ -13,7 +13,7 @@ Tenho experiência acadêmica em Desenvolvimento de Software e atuação na áre
 - **Linguagens de Programação:** Java, C#, PHP, JavaScript, Python, HTML5, CSS3 e jQuery.
 - **Bancos de Dados e Tecnologias Relacionadas:** MySQL, NoSQL, SQL (JDBC), ORM (JPA/Hibernate), SQL Server.
 - **Frameworks:** Codelgniter, Bootstrap, Laravel, ASP.NET Core, Entity Framework e Razor.
-- Arquitetura de Software: Padrão MVC.
+- **Arquitetura de Software:** Padrão MVC.
 - **Desenvolvimento Web.**
 - **Desenvolvimento Full Stack.**
 - **Desenvolvimento Back-end e Front-end.**
