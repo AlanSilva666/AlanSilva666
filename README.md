@@ -4,13 +4,16 @@
 
 ## Sobre Mim:
 
-Sou Alan Silva, estou cursando Graduação em Ciências da Computação, com previsão de graduação em Julho/2024. Tenho experiência acadêmica em Desenvolvimento de Software e atuação na área de Suporte Técnico em TI, além de experiência comprovada em Desenvolvimento Full Stack. Estou sempre estudando e em busca de evolução. Há anos venho desenvolvendo projetos com as melhores tecnologias.
+Sou Alan Silva.
+Concluí recentemente a faculdade em Ciências da Computação e estou aguardando o certificado de conclusão.
+Tenho experiência acadêmica em Desenvolvimento de Software e atuação na área de Suporte Técnico em TI, além de experiência comprovada em Desenvolvimento Full Stack. Estou sempre estudando e em busca de evolução. Há anos venho desenvolvendo projetos com as melhores tecnologias.
 
 ## Habilidades, Conhecimentos e Experiência:
 
-- **Linguagens de Programação:** Java, PHP, JavaScript, Python, HTML5, CSS3 e jQuery.
+- **Linguagens de Programação:** Java, C#, PHP, JavaScript, Python, HTML5, CSS3 e jQuery.
 - **Bancos de Dados e Tecnologias Relacionadas:** MySQL, NoSQL, SQL (JDBC), ORM (JPA/Hibernate), SQL Server.
-- **Frameworks:** CodeIgniter, Bootstrap, Laravel, Padrão MVC.
+- **Frameworks:** Codelgniter, Bootstrap, Laravel, ASP.NET Core, Entity Framework e Razor.
+- **Arquitetura de Software: Padrão MVC.
 - **Desenvolvimento Web.**
 - **Desenvolvimento Full Stack.**
 - **Desenvolvimento Back-end e Front-end.**
