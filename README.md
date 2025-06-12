@@ -5,20 +5,30 @@
 ## Sobre Mim:
 
 Sou Alan Silva.
-Concluí recentemente a faculdade em Ciências da Computação e estou aguardando o certificado de conclusão.
+Bacharel em Ciência da Computação.
 Tenho experiência acadêmica em Desenvolvimento de Software e atuação na área de Suporte Técnico em TI, além de experiência comprovada em Desenvolvimento Full Stack. Estou sempre estudando e em busca de evolução. Há anos venho desenvolvendo projetos com as melhores tecnologias.
 
 ## Habilidades, Conhecimentos e Experiência:
 
 - **Linguagens de Programação:** Java, C#, PHP, JavaScript, Python, HTML5, CSS3 e jQuery.
 - **Bancos de Dados e Tecnologias Relacionadas:** MySQL, NoSQL, SQL (JDBC), ORM (JPA/Hibernate), SQL Server.
-- **Frameworks:** Codelgniter, Bootstrap, Laravel, ASP.NET Core, Entity Framework e Razor.
+- **Frameworks:** Codelgniter, Bootstrap, Laravel, ASP.NET Core, Entity Framework, Razor e .NET Framework
+(Windows Forms).
 - **Arquitetura de Software:** Padrão MVC.
+- **Gerenciador de dependências:** Composer.
+- **Desenvolvimento Full Stack e integração de APIs RESTful para consumo e envio de dados.**
+- **Consumo de APIs para busca de CEP, endereço e localização, incluindo a API do Google Maps.**
+- **Criação de endpoints seguros e otimização de requisições HTTP (GET, POST e PUT) no sistema.**
+- **Solução de problemas em sistema web e implementação de novas ferramentas.**
 - **Desenvolvimento Web.**
-- **Desenvolvimento Full Stack.**
-- **Desenvolvimento Back-end e Front-end.**
+- **Desenvolvimento Desktop.**
 - **Domínio em Atividades de Programação Orientada a Objetos.**
 - **Domínio em Inglês Pré-Avançado.**
+- **Habilidades e Conhecimentos em Suporte Técnico ao Usuário, montagens de computadores, upgrade de
+peças, testes, manutenção em hardware, formatação de equipamentos e instalação de sistema
+operacionais, instalação de softwares, configuração de rede, instalação e configuração de impressora,
+troca de suprimentos, clonagem de discos, rotina de backup, padrão em instalação de sistemas, instalação
+e configuração de projetores multimídia.**
 - **Atendimento ao Cliente.**
 - **Flexibilidade e Adaptabilidade.**
 - **Disposição para o Aprendizado e Aprimoramento Contínuos.**
